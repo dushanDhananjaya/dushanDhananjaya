@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @dushanDhananjaya
-- 🔭 I’m currently working on something cool <br>🌱 learning New Techs & Recreating <br>👯 looking to collaborate on New Projects <br>📫 How to reach me: dushandhanajaya01@gmail.com<br>
+- 🔭 I’m currently working on something cool <br>
+- 🌱 learning New Techs & Recreating <br>
+- 👯 looking to collaborate on New Projects <br>
+- 📫 How to reach me: dushandhanajaya01@gmail.com<br>
 
 
 # 💻 Tech Stack:
